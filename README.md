@@ -14,6 +14,12 @@ Throw away big companies' data miner, messaging apps. Let's build a chat app tha
 ## Figma design (UI)
 join discord and request a link for the figma
 
+## ux ideas
+https://gguummyy.notion.site/ux-7e6b3279001e41289949c5d44ca72786?pvs=4
+
+## technical spec ideas
+https://gguummyy.notion.site/technical-specs-859c975158ea4c81b1ef47d18ac368d9?pvs=4
+
 ## inspiring
 https://gguummyy.notion.site/ui-garden-13cc245cbf3d47adbafe64969dc3b913?pvs=4
 
