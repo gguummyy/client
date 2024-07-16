@@ -1,6 +1,7 @@
 # GGUUMMYY 
 
-<img width="77" alt="gguummyy" src="https://github.com/user-attachments/assets/c5c644fa-b44e-41c2-8c15-b2bc288308cb"> <br>
+![Frame 4](https://github.com/user-attachments/assets/4c2c1ec0-6303-4fc3-92d2-c6182972dc2a) <br>
+
 *Here is updating constantly* ➿ <br>
 #
 welcome, gguummyy is a mobile (ios, android) chat app. Not just another chat app! It focuses on making a simple, unique, and enjoyable experience while chatting. 
