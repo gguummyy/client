@@ -6,8 +6,13 @@
 #
 welcome, gguummyy is a mobile (ios, android) chat app. Not just another chat app! It focuses on making a simple, unique, and enjoyable experience while chatting. 
 
-## Under Development ⌨️
-gguummyy is an open source project, ios and android clients will be written in react native.
+## contribute ⌨️
+To contribute, you need to set up expo by <br>
+```
+ npx create-expo-app@latest
+```
+<br>
+read more about setting-up on https://docs.expo.dev
 
 ## By people, for people 🫂
 Throw away big companies' data miner, messaging apps. Let's build a chat app that humanity deserves and loves. 
