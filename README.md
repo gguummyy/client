@@ -1,4 +1,4 @@
-# GGUUMMYY 
+# GGUUMMYY  
 
 ![Frame 4](https://github.com/user-attachments/assets/4c2c1ec0-6303-4fc3-92d2-c6182972dc2a) <br>
 
